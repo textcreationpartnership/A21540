@@ -1,0 +1,152 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the Quene the Quenes highnes well remembrynge what great inconuenience and daungers haue growen to this her hyghnes realme in tyme past thorough the diuersities of opinions, in questions of religion, and hearing also that now of late ... the same contentions be agayne muche renewed thorowe certeyne false and vntrue reportes and rumors ...</title>
+            <author>England and Wales. Sovereign (1553-1558 : Mary I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1553</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21540</idno>
+            <idno type="STC">STC 7849</idno>
+            <idno type="STC">ESTC S3751</idno>
+            <idno type="EEBO-CITATION">33150897</idno>
+            <idno type="OCLC">ocm 33150897</idno>
+            <idno type="VID">28810</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21540)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 28810)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1874:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the Quene the Quenes highnes well remembrynge what great inconuenience and daungers haue growen to this her hyghnes realme in tyme past thorough the diuersities of opinions, in questions of religion, and hearing also that now of late ... the same contentions be agayne muche renewed thorowe certeyne false and vntrue reportes and rumors ...</title>
+                  <author>England and Wales. Sovereign (1553-1558 : Mary I)</author>
+                  <author>Mary I, Queen of England, 1516-1558.</author>
+               </titleStmt>
+               <extent>2 leaves.   </extent>
+               <publicationStmt>
+                  <publisher>In ædibus Iohannis Cawodi typographi Reginæ excusum,</publisher>
+                  <pubPlace>Londini :</pubPlace>
+                  <date>Anno M.D.LIII [1553]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Cum priuilegio ad imprimendum solum."</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in: Society of Antiquaries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church and state --  England --  16th century.</term>
+               <term>Freedom of the press --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Mary I, 1553-1558.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="command">
+            <pb facs="tcp:28810:1"/>
+            <!-- PDF PAGE 61 -->
+            <pb facs="tcp:28810:1"/>
+            <!-- PDF PAGE 61 -->
+            <head>By the Quene,</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Quenes highnes well remembrynge what great inconueni<g ref="char:EOLhyphen"/>ence and daungers haue growen to this her hyghnes realme in tyme paſt thorough the diuerſitie of opinions, in queſtions of re<g ref="char:EOLhyphen"/>ligion, and hearing alſo that now of late, ſithens the begynning of her mooſt graciouſe reygne, the ſame contentions be agayne muche renewed thorowe certeyne falſe and vntrue reportes and eumors ſpredde by ſome lyght and euyll diſpoſed perſons, hath thought good to do to vnderſtande to all her hyghnes mooſt lo<g ref="char:EOLhyphen"/>uynge and obedient ſubiectes, her mooſte gratious pleaſure, in maner and fourme folowynge.</p>
+            <p>
+               <hi>FYRST</hi> her maieſtie being preſently by thonely goodnes of God ſettled in her iuſt poſſeſſion of thimperiall crowne of this realme, and other dominions therunto belongynge, can not nowe hyde that religion (whiche GOD and the worlde knoweth the hath euer profeſſed from her in<g ref="char:EOLhyphen"/>fancy hitherto) whiche as her maieſtie is mynded to obſerue and maynteyne for her ſelfe by gods grace durynge her tyme, ſo dothe her highnes muche deſyre, and woulde be gladde the ſame were of all her ſubiectes quietly and charitablye embraced. And yet ſhe doth ſignifye vnto all her maieſties ſayde louinge ſubiectes, that of her mooſt gratious diſpoſition and clemency, her high<g ref="char:EOLhyphen"/>nes myndeth not to compell any her ſayde ſubiectes thervnto, vnto ſuche tyme as further ordre by common aſſent maye be taken therein. Forbyddinge neuertheleſſe, all her ſubiectes of all de<g ref="char:EOLhyphen"/>grees, at theyr perylles, to moue ſedicions, or to ſtyrre vnquietnes in her people by interpretyng the lawes of this realme after theyr braynes and fanſies, but quietly to continue for the tyme, tyl asbefore is ſayde further order maye be taken. And therefore wylleth and ſtreyghtly chargeth and commaundeth all her ſayde good louynge ſubiectes, to lyue togethers in quiet ſorte, &amp; chri<g ref="char:EOLhyphen"/>ſtian charitie, leauynge thoſe newe founde deueliſhe termes of Papyſte or Heretique, and ſuche lyke, and applyenge theyr whole eares, ſtudye, and trauayle, to lyue in the feare of God, exerciſing theyr conuerſations in ſuche charitable and godlye doynge, as theyr liues maye in dede expreſſe that great hunger and thyrſt of Goddes glorye and holye worde, whiche by raſhe talke and wor<g ref="char:EOLhyphen"/>des many haue pretended, and in ſo doynge, as they ſhall beſt pleaſe GOD, and lyue withoute daunger of the lawes, and maynteyne the tranquillite of the realme, wherof her hyghneſſe ſhalbe moſt gladde: ſo yfanye man ſhall raſhelye preſume to make any aſſembles of people, or at any pub<g ref="char:EOLhyphen"/>lique aſſembles or otherwyſe, ſhall go aboute to ſtyrre the people to diſorder, or diſquiet, ſhe myn<g ref="char:EOLhyphen"/>deth accordinge to her duetye, to ſee the ſame mooſt ſeuerely refourmed and punyſhed, accordyng to her hygneſſe lawes.</p>
+            <p>
+               <hi>AND</hi> furthermore, foraſmuche alſo as it is well knowen, that ſedition and falſe rumours haue bene nouryſhed and maynteyned in this realme, by the ſubteltye and malyce of ſome euell diſpoſed perſons, whiche take vpon them withoute ſufficient auctoritie, to preache, and to inter<g ref="char:EOLhyphen"/>prete the worde of GOD, after theyr owne brayne, in churches and other places, both publique and pryuate. And alſo by playinge of Interludes and pryntynge of falſe fonde bookes, ballettes, rymes, and other lewde treatiſes in the englyſhe tonge, concernynge doctryne in matters now in queſtion and controuerſye, touchynge the hyghe poyntes and miſteries of chriſten religion, whiche bokes, ballettes, rymes, and treatiſes are chiefly by the Prynters and Stacioners ſette out to ſale to her graces ſubiectes, of an euyll zeale, for lucre and couetous of vyle gayne. Her high<g ref="char:EOLhyphen"/>nes therfore ſtrayghtly chargeth and commaundeth all and euery her ſayde ſubiectes, of what<g ref="char:EOLhyphen"/>ſoeuer
+<pb facs="tcp:28810:2"/>
+               <!-- PDF PAGE 62 -->
+               <pb facs="tcp:28810:2"/>
+               <!-- PDF PAGE 62 -->ſtate, condition, or degree they be, that none of them preſume from henceforth to preache, or by waye of readynge in Churches, or other publique or pryuate places (excepte in the ſcholes of the vniuerſities) to interprete or teache any ſcriptures, or any maner poyntes of doctryne con<g ref="char:EOLhyphen"/>cernynge religion. Neyther alſo to prynte any bookes, matter, ballet, ryme, interlude, proceſſe or treatyſe nor to playe any interlude, except they haue her graces ſpeciall licence in writynge for the ſame, vpon payne to incurre her highneſſe indignation and diſpleaſure.</p>
+            <p>
+               <hi>AND</hi> her highneſſe alſo further ſtrayghtly chargeth and commaundeth all and euery her ſayde ſubiectes, that none of them of theyr owne pryuate authoritie, do preſume to punyſhe, or to ryſe agaynſt any offendour in the cauſes aboue ſayde, or any other offendour in wordes or dedes in the late rebellion commytted by the Duke of Northumberlande, or his complices, or to ſeiſe any of theyr goodes, or violentlye to vſe anye ſuche offendour by ſtrykynge, or impryſoninge, or threatynge the ſame, but wholy to referre the punyſhment of all ſuche offendours vnto her high<g ref="char:EOLhyphen"/>nes, and her publique authoritie, wherof her maieſtie myndeth to ſee due punyſhment accordyng to the ordre of her highnes lawes. Neuertheles as her highnes myndeth not hereby to reſtreyn and diſcourage any of her louinge ſubiectes, to geue from tyme to tyme true information agaynſt any ſuche offendours in the cauſes aboueſayde, vnto her grace, or her counſell, for the puniſhment of euerye ſuche offendour, accordynge to theffecte of her hyghneſſe lawes prouyded in that part. So her ſayd highnes exhorteth and ſtrayghtly chargeth her ſayde ſubiectes to obſerue her com<g ref="char:EOLhyphen"/>maundement and pleaſure in euery parte aforeſayde, as they wyll auoyde her hyghneſſe ſayd in<g ref="char:EOLhyphen"/>dignation, and mooſt greuouſe diſpleaſure. The ſeueritie and rygour wherof, as her hyghneſſe ſhalbe mooſt ſorye to haue cauſe to put the ſame in execution: ſo doth ſhe vtterlye determine not to permytte ſuche vnlawfull and rebelliouſe doynges of her ſubiectes (wherof may enſue the daun<g ref="char:EOLhyphen"/>ger of her royall eſtate) to remayne vnpunyſhed, but to ſee her ſayde lawes, touchyng theſe poin<g ref="char:EOLhyphen"/>tes, to be thoroughly executed, whiche extremities ſhe truſteth all her ſayde louynge ſubiectes wyll forſee, dreade, and auoyde accordinglye.</p>
+            <p>
+               <hi>HER</hi> ſayde hyghneſſe ſtrayghtely chargynge and commaundinge all Mayors, Sheryffes, Iuſtices of peace, Bayliffes, Conſtables, and all other publique officers and miniſters, diligently to ſee to the obſeruynge and executynge of her ſayde commaundementes, and pleaſure, and to ap<g ref="char:EOLhyphen"/>prehende all ſuche as ſhall wylfully offende in this parte, committinge the ſame to the next gaile, there to remayne without bayle or maynepryſe, tyll vpon certificate made to her highnes, or her pryuye counſell, of theyr names and doynges, and vpon examination had of theyr offences, ſome further ordre ſhalbe taken for theyr punyſhment, to the example of others, accordynge to theffecte and tenor of the lawes aforeſayde.</p>
+            <closer>
+               <dateline>¶ Geuen at our manour of Rychemonde, <date>the .xviii. of Auguſt. In the fyrſte yeare of our mooſt proſperous reygne.</date>
+               </dateline>
+            </closer>
+            <trailer>God ſaue the Quene.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Londini in aedibus Iohannis Cawodi Typographi Reginae excuſum. <date>Anno. M.D.LIII.</date>
+            </p>
+         </div>
+         <div type="license">
+            <p>Cum priuilegio ad imprimendum ſolum.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
